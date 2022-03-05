@@ -1,0 +1,45 @@
+body{ 
+	width: 60%;
+	margin-left: 255px;
+	background: url(universe.jpg) center;
+	color: #FFFFFF;
+	margin-top: 15px;
+	text-align: center;
+}
+main{
+	background: #0000004f;
+	border-radius: 20px 20px 20px 20px;
+	}
+.foto{
+	width: 50%;
+	padding: 25px 200px;
+	
+}
+h1{
+	text-align: center;
+	font-size: 25px;
+
+}
+strong{
+	color: #a7901f;
+}
+h2{
+	text-align: center;
+}
+h3{
+	font-size: 35px;
+	text-align: center;
+}
+
+p{
+	line-height: 1.5;
+	font-size: 25px;
+}
+
+table{
+	margin-left: 300px;
+	font-size: 22px;
+	background: #b2612780;
+	border-radius: 10px;
+	padding: 10px;
+}
